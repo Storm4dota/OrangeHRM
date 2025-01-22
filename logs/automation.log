@@ -1,34 +1,4 @@
-11:27:45.325 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OrangeHRM\Logintestng.xml"
-11:27:45.591 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OrangeHRM\Logintestng.xml
-
-11:28:25.509 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OrangeHRM\Logintestng.xml"
-11:28:25.779 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OrangeHRM\Logintestng.xml
-
-11:30:51.232 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OrangeHRM\Logintestng.xml"
-11:30:51.499 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OrangeHRM\Logintestng.xml
-
-11:32:30.740 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OrangeHRM\Logintestng.xml"
-11:32:31.010 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OrangeHRM\Logintestng.xml
-
-11:32:39.903 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - ******Login Test case started****
-11:32:39.903 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter username
-11:38:02.076 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OrangeHRM\Logintestng.xml"
-11:38:02.352 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OrangeHRM\Logintestng.xml
-
-11:38:07.430 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - ******Login Test case started****
-11:38:07.430 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter username
-11:38:07.886 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter password
-11:38:07.933 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - click login button
-11:41:48.795 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OrangeHRM\Logintestng.xml"
-11:41:49.053 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
-  C:\Java selenium\Projects\OrangeHRM\Logintestng.xml
-
-11:41:56.388 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - ******Login Test case started****
-11:41:56.388 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter username
-11:41:56.834 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter password
-11:41:56.888 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - click login button
+14:48:38.800 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:48:38.804 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:48:38.805 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+14:48:38.812 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings

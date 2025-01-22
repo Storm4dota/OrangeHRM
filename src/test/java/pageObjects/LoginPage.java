@@ -33,6 +33,12 @@ public class LoginPage extends BasePage {
 	{
 		login_button.click();
 	}
+	
+	public void GetTitle()
+	{
+		System.out.println(driver.getTitle());
+		System.out.println(driver.getWindowHandle());
+	}
 
 
 }
