@@ -8,3 +8,12 @@
 20:16:23.659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
 20:16:23.659 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
 20:16:23.668 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+18:52:59.541 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OrangeHRM\Logintestng.xml"
+18:52:59.895 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java selenium\Projects\OrangeHRM\Logintestng.xml
+
+18:53:08.360 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - ******Login Test case started****
+18:53:10.361 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - get logo
+18:53:10.396 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter username
+18:53:10.460 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter password
+18:53:10.505 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - click login button
