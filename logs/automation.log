@@ -17,3 +17,12 @@
 18:53:10.396 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter username
 18:53:10.460 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter password
 18:53:10.505 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - click login button
+22:58:38.820 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Java selenium\Projects\OrangeHRM\Logintestng.xml"
+22:58:39.122 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Java selenium\Projects\OrangeHRM\Logintestng.xml
+
+22:58:44.802 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - ******Login Test case started****
+22:58:46.804 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - get logo
+22:58:46.815 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter username
+22:58:46.875 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - enter password
+22:58:46.917 [main] INFO  testCases.TC_MYINFO_LOGIN_01 - click login button
